@@ -14,7 +14,7 @@
 
 Please refer to the instructions [here](https://github.com/JDsnyke/Safari-Password-Converter/wiki/Setup-Instructions).
 
-* OTP supported with Bitwarden only as other providers do not appear to support OTPAuth headers support for imports.
+* OTP supported with Bitwarden only as other providers do not appear to support OTPAuth header support for imports.
 * 1Password allows importing Safari CSV directly through site. Recommended doing this instead, or use this tool to import as generic CSV instead.
 * Remembear not included - as per site, they support exports from LastPass and 1Password. Potentially converting to CSV's supporting these providers may work (untested).
 
@@ -41,6 +41,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 * [Ruby](https://www.ruby-lang.org/) by Yukihiro Matsumoto and collaborators.
-* Various people and code posted on [Stackoverflow](https://stackoverflow.com/questions/tagged/shoes).
+* Various people and code posted on [Stackoverflow](https://stackoverflow.com/questions/tagged/ruby).
 * Badges by [Shields.io](https://github.com/badges/shields).
 * Hat tip to anyone else whose code was used.
